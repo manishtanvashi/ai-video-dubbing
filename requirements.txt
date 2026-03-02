@@ -1,0 +1,8 @@
+openai-whisper
+transformers
+sentencepiece
+edge-tts
+moviepy
+nest_asyncio
+ffmpeg-python
+torch
